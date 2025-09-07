@@ -1,10 +1,6 @@
 # 🚀 DSA Problem Solutions in Java  
 
-![Java](https://img.shields.io/badge/Language-Java-blue?logo=java&logoColor=white)  
-![Data Structures](https://img.shields.io/badge/Topic-Data%20Structures-orange)  
-![Algorithms](https://img.shields.io/badge/Topic-Algorithms-green)  
-![LeetCode](https://img.shields.io/badge/Practice-LeetCode-yellow?logo=leetcode)  
-![Status](https://img.shields.io/badge/Status-Solved-brightgreen)  
+![Java](https://img.shields.io/badge/Language-Java-blue?logo=java&logoColor=white)  ![Data Structures](https://img.shields.io/badge/Topic-Data%20Structures-orange)  ![Algorithms](https://img.shields.io/badge/Topic-Algorithms-green)  ![LeetCode](https://img.shields.io/badge/Practice-LeetCode-yellow?logo=leetcode)  ![Status](https://img.shields.io/badge/Status-Solved-brightgreen)  
 
 This repository contains *clean Java implementations* of important DSA problems, with explanations, edge cases, and approaches. Perfect for *interview prep* 💯.  
 
